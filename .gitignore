@@ -10,6 +10,9 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
+out/
+[Bb][Uu][Ii][Ll][Dd]/
+
 
 # Prerequisites
 *.d
